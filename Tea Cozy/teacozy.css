@@ -1,0 +1,128 @@
+
+li {
+	color: white;
+	text-decoration: underline;
+	margin-top: 10px;
+}
+.img {
+	justify-content: center;
+    height: : 50px;
+    margin-left: 10px;
+}
+body {
+	background-color: black;
+	opacity: 0.9;
+	color: seashell;
+	font-family: Helvetica;
+	font-size: 22px;
+}
+.caption {
+	text-align: center;
+	color: white;
+}
+.image {
+	margin-left: 240px;
+	margin-right: 240px;
+	margin-top: 100px;
+	background-repeat: no-repeat;
+	background-size: 700px;
+	background-position: center;
+	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+
+}
+.image h2 {
+	color: white;
+	text-align: center;
+}
+.image h4 {
+	color: white;
+	text-align: center;
+}
+.five {
+	width: 300px;
+	height: 200px;
+	justify-content: space-around;
+}
+.h2 {
+	color: white;
+	text-align: center;
+}
+.h4 {
+	color: white;
+	text-align: center;
+}
+.c {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.mission {
+	height: 700px;
+
+}
+}
+.footer {
+	background-color: #000;
+	color: white;
+	height: 200px;
+}
+.footer p {
+	margin-left: 20px;
+	font-size: : 20px;
+	color: white;
+}
+.footer h1 {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+.footer h5 {
+	color: white;
+	text-align: center;
+}
+
+header {
+	background-color: black;
+	display: flex;
+	border-bottom: 1px solid seashell;
+	position: fixed;
+	width: 100%;
+	height: 69px;
+	margin-top: 0px;
+}
+.m {
+	color: white;
+	text-align: center;
+	margin-top: 300px;
+	background-color: black;
+	background-size: 300px;
+}
+.h {
+	color: white;
+	text-align: center;
+	background-color: black;
+}
+.container {
+	background-repeat: no-repeat;
+	background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+}
+.Downtown {
+	background-color: black;
+	width: 300px;
+
+}
+.Bayside {
+	background-color: black;
+    width: 300px;
+
+}
+.Oakdale {
+    background-color: black;
+    width: 300px;
+
+} 
+.name {
+	color: white;
+	text-align: justify;
+	display: block;
+}
